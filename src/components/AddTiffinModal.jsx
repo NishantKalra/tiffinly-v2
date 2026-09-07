@@ -244,7 +244,7 @@ export default function AddTiffinModal({ isOpen, onClose, onAddSuccess }) {
               disabled={isSubmitting}
               className="px-5 py-2 rounded-lg bg-teal-600 hover:bg-teal-700 text-white font-medium text-sm transition disabled:opacity-50 flex items-center gap-2"
             >
-              {isSubmitting ? 'Submitting...' : 'Submit to EmailJS'}
+              {isSubmitting ? 'Submitting...' : 'Submit for Review'}
             </button>
           </div>
         </form>
