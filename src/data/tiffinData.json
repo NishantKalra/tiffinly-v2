@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Annapurna Shuddh Rasoi",
+    "tag": "pure veg",
+    "rating": 4.8,
+    "phone": "+91 98765 43210",
+    "price": 120,
+    "mainImage": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+    "moreImages": [
+      "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80"
+    ],
+    "details": "Authentic North Indian home-cooked meals prepared with minimal oil and organic spices. Includes 4 Chapatis, Rice, Dal, Sabzi, and Salad.",
+    "reviews": [
+      { "id": 1, "name": "Priya Sharma", "rating": 5, "comment": "Feels like eating home food! Dal tadka is amazing." },
+      { "id": 2, "name": "Rahul Verma", "rating": 4, "comment": "Timely delivery and fresh chapattis every time." }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Satvik Bhojan Services",
+    "tag": "no onion-garlic",
+    "rating": 4.9,
+    "phone": "+91 98123 45678",
+    "price": 140,
+    "mainImage": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
+    "moreImages": [
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80"
+    ],
+    "details": "100% Satvik meals crafted carefully without onion, garlic, or artificial ingredients. ideal for daily health and fasts.",
+    "reviews": [
+      { "id": 1, "name": "Amit Patel", "rating": 5, "comment": "Extremely hygienic and delicious Jain-friendly food." }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Desi Flavors Tiffin",
+    "tag": "non veg",
+    "rating": 4.6,
+    "phone": "+91 97111 22233",
+    "price": 180,
+    "mainImage": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
+    "moreImages": [
+      "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "details": "Specializes in homestyle Chicken and Mutton curries alongside classic vegetarian combos. Fresh batches made daily.",
+    "reviews": [
+      { "id": 1, "name": "Siddharth Rao", "rating": 5, "comment": "The Sunday chicken curry is to die for!" }
+    ]
+  }
+]

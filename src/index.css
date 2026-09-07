@@ -1,0 +1,9 @@
+.main-section { display: flex; color: #fffaeb; align-items: center; justify-content: center; padding: 80px; }
+.main-section .content { max-width: 800px; }
+h1.main-heading { font-size: 32px; font-weight: 700; color: #fffaeb; }
+
+.secondary-sec { display: flex; flex-direction: column; gap: 20px;}
+.secondary-sec h2 { font-size: 28px; font-weight: 600; }
+.secondary-sec button { width: 200px; }
+
+@import "tailwindcss";
